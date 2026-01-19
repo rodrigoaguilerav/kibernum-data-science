@@ -11,8 +11,8 @@ from sklearn.metrics import confusion_matrix, precision_score, accuracy_score, r
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 
 # 1. Carga de datos
-reg = pd.read_csv('datos_regresion.csv')
-clas = pd.read_csv('datos_clasificacion.csv')
+reg = pd.read_csv('M5\S7\datos_regresion.csv')
+clas = pd.read_csv('M5\S7\datos_clasificacion.csv')
 
 # 2. Evaluación de un modelo de regresión
 # Preprocesamiento: codificar categoría
