@@ -149,7 +149,7 @@ dmypy.json
 *.onnx
 
 # Large media files
-*.png
+#*.png
 *.jpg
 *.jpeg
 *.gif

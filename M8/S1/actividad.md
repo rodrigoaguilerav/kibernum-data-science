@@ -1,5 +1,3 @@
-Te dejo las querys en sintaxis de `mongo` (shell/Compass):
-
 1. **Total de películas en `movies`**
 
 ````javascript
